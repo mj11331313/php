@@ -55,7 +55,7 @@
         krsort($peo);
         foreach($peo as $key=>$key_value){
               echo "$key = $key_value ";
-        }      
+        }
 	?>
 </body>
 </html>
